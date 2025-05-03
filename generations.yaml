@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (Project 199)"
+    start_year: 2005
+    end_year: 2009
+    description: "The Fiat Grande Punto represented a significant leap forward from the previous Punto, designed by Giorgetto Giugiaro in collaboration with Fiat Centro Stile. Built on the GM Fiat Small platform (later used for the Opel Corsa D), it was substantially larger than its predecessor, approaching the next segment in size. The exterior featured distinctive styling with elongated headlights, a prominent grille, and a sporty stance that gave it a more premium appearance compared to earlier Fiat small cars. Engine options included various petrol units ranging from a 1.2L 8v to a 1.4L 16v, plus the innovative 1.3L MultiJet diesel. The Abarth Grande Punto introduced in 2007 offered enhanced performance with a 1.4L T-Jet turbocharged engine producing 155 HP. The interior represented a significant improvement in quality and design over previous Fiat models, with better materials and a more modern layout. The Grande Punto achieved commercial success across Europe, helping to revitalize Fiat's reputation in the supermini segment with its combination of style, space, and value."
+
+  - name: "Evolution (Punto Evo)"
+    start_year: 2009
+    end_year: 2012
+    description: "The Punto Evo was a substantial facelift of the Grande Punto, featuring completely redesigned front and rear styling to align with Fiat's then-current design language. The exterior changes included a more pronounced front fascia, new headlights and taillights, and revised bumpers. Engine options were updated to include the new MultiAir technology in petrol engines, offering improved efficiency and performance. The interior received a complete redesign with a new dashboard, improved materials, and the introduction of Fiat's Blue&Me connectivity system. Safety features were enhanced, allowing the model to achieve a 5-star Euro NCAP rating. This update maintained the Grande Punto's core attributes while modernizing its appearance and technology."
+
+  - name: "Final Phase (Punto 2012)"
+    start_year: 2012
+    end_year: 2018
+    description: "The final iteration of the Grande Punto platform saw a return to simpler styling, reverting to elements of the original Grande Punto design with updated details. This model was marketed simply as the 'Punto' in most markets. Exterior changes were relatively minor, focusing on bumper designs, light clusters, and trim elements. The engine lineup was rationalized to focus on more efficient options, including the 0.9L TwinAir and updated MultiJet diesels. Interior changes were minimal, though technology options were kept current with the times. This generation demonstrated remarkable longevity, remaining in production with only minor updates until 2018, an unusually long lifecycle for a supermini. When production finally ended, the Grande Punto platform had served for nearly 13 years, during which it played a crucial role in Fiat's product portfolio as a volume seller across multiple European markets."
